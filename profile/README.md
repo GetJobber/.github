@@ -31,6 +31,6 @@ We nurture a collaborative and growth-focused environment where people can do am
 We are hiring for remote positions across Canada at all software engineering levels!
 Our awesome Jobber technology teams span across Payments, Infrastructure, AI/ML, Business Workflows & Communications.
 
-If you want to be a part of a collaborative work culture, help small home service businesses scale and create a positive impact on our communities, then visit our [careers](https://getjobber.com/about/careers/) site to learn more!
+If you want to be a part of a collaborative work culture, help small home service businesses scale and create a positive impact on our communities, then visit our [careers](https://getjobber.com/about/careers/?utm_source=github&utm_medium=social&utm_campaign=eng_blog) site to learn more!
 ||
 [LinkedIn](https://www.linkedin.com/company/jobber-software/jobs/)
