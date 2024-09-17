@@ -1,4 +1,4 @@
-![Jobber Logo](https://static1.squarespace.com/static/5441e38fe4b0104bb75a78e3/t/547c9c20e4b07347e776a860/1417452576633/White-primary-lockup-Jobber.png)
+![Jobber Logo](https://avatars.githubusercontent.com/u/1251449?s=200&v=4)
 
 ## Hey, Our Vision & Mission 👋
 
