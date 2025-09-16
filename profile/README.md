@@ -1,5 +1,3 @@
-![Jobber Logo](https://static1.squarespace.com/static/5441e38fe4b0104bb75a78e3/t/547c9c20e4b07347e776a860/1417452576633/White-primary-lockup-Jobber.png)
-
 ## Hey, Our Vision & Mission 👋
 
 We help people in small business be successful. Job by job, we're transforming the way service is delivered. We're bringing people and technology together to build stronger communities. Our communities are built on the backs of small businesses, so when small business wins, we all win.
