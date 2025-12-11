@@ -1,3 +1,5 @@
+![Jobber Logo](https://avatars.githubusercontent.com/u/1251449?s=200&v=4)
+
 ## Hey, Our Vision & Mission 👋
 
 We help people in small business be successful. Job by job, we're transforming the way service is delivered. We're bringing people and technology together to build stronger communities. Our communities are built on the backs of small businesses, so when small business wins, we all win.
