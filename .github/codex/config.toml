@@ -1,0 +1,21 @@
+default_permissions = "barnacle-triage"
+
+[permissions.barnacle-triage]
+description = "Edit the checked-out repository and reach approved dependency/advisory hosts."
+extends = ":workspace"
+
+[permissions.barnacle-triage.filesystem.":workspace_roots"]
+"**/*.env" = "deny"
+"**/*.pem" = "deny"
+"**/*.key" = "deny"
+
+[permissions.barnacle-triage.network]
+enabled = true
+
+[permissions.barnacle-triage.network.domains]
+"**.github.com" = "allow"
+"**.githubusercontent.com" = "allow"
+"**.npmjs.org" = "allow"
+"**.rubygems.org" = "allow"
+"**.osv.dev" = "allow"
+"**.nist.gov" = "allow"
